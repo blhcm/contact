@@ -1,2 +1,2 @@
 # Contact Blhcm
-Blhcm's SNS website.
+Blhcm's email address and SNS website.
